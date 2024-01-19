@@ -1,0 +1,4 @@
+DELAY 5000
+REM Turn off the iOS device
+STRING sudo shutdown -h now
+ENTER
